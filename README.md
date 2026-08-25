@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Riza Hilman Firmansyah</h1>
+<h1 align="center">Hi there, I'm Riza Hilman Firmansyah</h1>
 <h3 align="center">A passionate web developer and tech enthusiast from Indonesia 🇮🇩</h3>
 
 <br>
@@ -10,14 +10,14 @@
 
 ---
 
-### 🚀 About Me
-- 🌱 I’m currently learning and exploring **Web Development** (HTML, CSS, JavaScript, PHP, and Frameworks).
-- 🔭 Working on projects like Inventory Management systems, E-Commerce platforms, and backend APIs.
-- ⚡ Fun fact: I love turning ideas into functional code and exploring new tech stacks.
+### About Me
+-  I’m currently learning and exploring **Web Development** (HTML, CSS, JavaScript, PHP, and Frameworks).
+-  Working on projects like Inventory Management systems, E-Commerce platforms, and backend APIs.
+-  Fun fact: I love turning ideas into functional code and exploring new tech stacks.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -29,7 +29,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Rizahilmanfirmansyah&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizahilmanfirmansyah&layout=compact&theme=tokyonight&hide_border=true" />
