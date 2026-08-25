@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rizahilmanfirmansyah&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="[https://komarev.com/ghpvc/?username=Rizahilmanfirmansyah](https://github.com/Rizahilmanfirmansyah/Rizahilmanfirmansyah/)&style=flat-square&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github" alt="GitHub" />
 </p>
 
